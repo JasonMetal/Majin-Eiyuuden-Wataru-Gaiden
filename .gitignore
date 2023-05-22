@@ -1,0 +1,16 @@
+/.idea
+/.vscode
+*.log
+.env
+.DS_Store
+/runtime
+Doc/
+Ips/
+movie/
+snapshot/
+state/
+*.vlp
+readme.txt
+VirtuaNES.ini
+*.exe
+

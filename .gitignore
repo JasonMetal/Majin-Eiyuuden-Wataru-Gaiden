@@ -8,7 +8,6 @@ Doc/
 Ips/
 movie/
 snapshot/
-state/
 *.vlp
 readme.txt
 VirtuaNES.ini
